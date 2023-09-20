@@ -1,0 +1,361 @@
+*{
+   
+}
+.mian{
+    height: 130vh;
+    
+}
+.nisham{
+    /* height: 120vh; */
+    position: absolute;
+    height: 130vh;
+  
+}
+.image-1{
+    height: 130vh;
+    width: 118.6%;
+    /* position: absolute; */
+}
+.nav{
+    display: flex;
+    position: relative;
+    width: 30%;
+    height: 100px;
+    /* background-color: aqua; */
+    margin-left: 55%;
+    justify-content: space-between;
+    align-items: center;
+}
+.int{
+    font-size: 25px;
+    color: #CC9966;
+    width: 90px;
+    height: 45px;
+    /* background-color: aqua; */
+    /* border: 1px solid black; */
+
+}
+.int:hover{
+    border-bottom: 3px solid #CC9966;
+}
+.antique{
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    opacity: 70%;
+    width: 450px;
+    height: 200px;
+    margin-left: 35%;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.anti{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    /* background-color: aqua; */
+    /* margin-top: 150px; */
+}
+.daily{
+    font-size: 25px;
+    color: #CC9966;
+    /* background-color: blue; */
+    /* padding-bottom: 150px; */
+}
+.cofee{
+    margin-top: 20px;
+    width: 450px;
+    height: 220px;
+    position: relative;
+    margin-left: 35%;
+    background-color: black;
+    opacity: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.shop{
+    color: #ffffff;
+    font-size: 18px;
+    width: 380px;
+    height: 140px;
+    
+}
+.image-2{
+    position: relative;
+    width: 220px;
+    height: 50px;
+    margin-left: 42%;
+    background-color: black;
+    opacity: 70%;
+    font-size: 18px;
+    color: #CC9966;
+    margin-top: 15px;
+    border-radius: 8px;
+
+}
+.image-3{
+    width: 20px;
+    height: 20px;
+    padding-bottom: 50px;
+}
+.image-2:hover{
+    color: white;
+}
+.second{
+  
+}
+.menu{
+    font-size: 40px;
+    width: 300px;
+    height: 90px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 9px;
+    color: #544639;
+    background-color: #ffffff;
+    margin-left: 38%;
+    /* padding-top: 100px; */
+    /* margin-top: 250px; */
+    
+}
+.second-image{
+    width: 100%;
+    position: absolute;
+    height: 150vh;
+    /* width: 50%; */
+}
+.menu1{
+    position: relative;
+    /* margin-top: 20%; */
+    padding: 100px;
+}
+.sas{
+    margin-top: 250px;
+    width: 100%;
+    height: 150vh;
+    background: fixed no-repeat url(https://www.tooplate.com/templates/2126_antique_cafe/img/antique-cafe-bg-02.jpg);
+}
+.nil{
+    position: relative;
+    width: 80%;
+    height: 600px;
+    /* background-color: aqua; */
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.nil1{
+    width: 45%;
+    height: 600px;
+    background-color: #544639;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 15px;
+
+
+}
+.nil2{
+    width: 45%;
+    height: 600px;
+    background-color: #544639;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 15px;
+
+}
+.num{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    margin-left: 30px;
+}
+.hot{
+    font-size: 1.2rem;
+    color: #FC6;
+    font-weight: normal;
+    
+}
+.dollar{
+    font-size: 1.2rem;
+    color: white;
+    margin-top: 25px;
+}
+.imm{
+    border-radius: 5px;
+}
+.hot1{
+    /* background-color: aquamarine; */
+    width: 260px;
+}
+.hot2{
+    /* background-color: aqua; */
+    width: 260px;
+    padding-left: 50px;
+}
+.third{
+    width: 100%;
+}
+.third1{
+    background: fixed no-repeat url(https://www.tooplate.com/templates/2126_antique_cafe/img/antique-cafe-bg-03.jpg);
+    height: 950px;
+    width: 100%;
+    /* margin-top: 130px; */
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    /* justify-content: space-around; */
+    
+}
+.about{
+    color: #006666;
+    width: 300px;
+    height: 70px;
+    /* background-color: #ffffff; */
+    font-size: 39px;
+    font-weight: normal;
+    margin-right: 120px;
+}
+.about1{
+    color: rgb(87, 87, 87);
+    width: 420px;
+    font-size: 18px;
+    height: 300px;
+    font-weight: lighter;
+    /* background-color: #FC6; */
+}
+.abow{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding-top: 150px; */
+    background-color: rgb(255, 255, 255);
+    /* opacity: 10%; */
+    border-radius: 10px;
+    
+    opacity: 80%;
+    width: 38%;
+    height: 400px;
+    margin-left: 850px;
+    margin-top: 250px;
+}
+.cont{
+    background-color: #006666;
+    width: 200px;
+    height: 55px;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    color: white;
+    margin-right: 450px;
+    margin-top: 30px;
+    margin-left: 920px;
+}
+.four{
+    background: fixed no-repeat url(https://www.tooplate.com/templates/2126_antique_cafe/img/antique-cafe-bg-04.jpg);
+    height: 950px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.four1{
+    width: 35%;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 30px;
+    border-radius: 15px;
+    opacity: 75%;
+}
+
+.for{
+    color: #006666;
+    width: 300px;
+    height: 70px;
+    /* background-color: #ffffff; */
+    font-size: 39px;
+    font-weight: normal;
+}
+.for1{
+    color: rgb(0, 0, 0);
+    width: 420px;
+    font-size: 18px;
+    height: 300px;
+    font-weight: lighter;
+    /* background-color: aqua; */
+    height: 100px;
+
+}
+.for2{
+    /* background-color: aqua; */
+    color: #006666;
+    font-size: 17px;
+}
+.foo{
+    font-size: 17px;
+    color: #006666;
+    
+}
+.map{
+    width: 250px;
+    height: 65px;
+    background-color: #006666;
+    
+    color: white;
+    border: none;
+    font-size: 22px;
+
+    border-radius: 10px;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+.four2{
+    width: 35%;
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+    opacity: 70%;
+    display: flex;
+    flex-direction: column;
+    /* background: none; */
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 15px;
+}
+.name{
+    background: none;
+    height: 60px;
+    font-size: 18px;
+    width: 450px;
+    border: none;
+    border-bottom: 2px solid #FC6;
+    color: white;
+}
+.mess{
+    width: 450px;
+    height: 200px;
+    background: none;
+    border: none;
+    border-bottom: 2px solid #FC6;
+    font-size: 18px;
+}
+.name:hover{
+    border: 2px solid #FC6;
+    box-shadow: 0 0 10px #FC6;
+}
+.mess:hover{
+    border: 2px solid #FC6;
+    box-shadow: 0 0 10px #FC6;
+}
+.send{
+    color: white;
+    margin-left: 400px;
+}
+.send:hover{
+    color: #FC6;
+}
